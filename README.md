@@ -7,7 +7,7 @@ I am passionate about **data analysis, book publishing, and community engagement
 📖 **Founder:** [Z Delulu Squad Book Club](#)  
 📚 **Book Reviewer & Content Creator:** [TikTok](https://www.tiktok.com/@koobme1)  
 📊 **Skills:** Python | SQL | Excel | Data Visualization | Power BI  
-📬 **Let's Connect:** [LinkedIn](#) | [Email](mailto:edlawitmesfin55@gmail.com)  
+📬 **Let's Connect:** [LinkedIn](www.linkedin.com/in/edlawit-mesfin-ba25b319a) | [Email](mailto:edlawitmesfin55@gmail.com)  
 
 ## 🚀 What I'm Working On
 - 🧠 Learning advanced **data analysis techniques**
